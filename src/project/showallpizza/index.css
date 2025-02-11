@@ -1,0 +1,35 @@
+.mainbox{
+    position: absolute;
+    left: 20%;
+    color: black;
+}
+
+.para{
+   
+    font-weight: bold;
+}
+.viewout{
+    position: absolute;
+    left: 210px;
+    top: 110px;
+    width: 100%;
+    
+}
+p{
+    font-size: 15px;
+}
+.outerdiv-emp-form{
+    background: -moz-linear-gradient();
+     /* background-color:bisque  */
+}
+.button{
+    padding: 8px 16px !important;
+    background-color: blue;
+    color: #fff;
+    border-radius: 30px;
+    text-align: center;
+
+}
+.update{
+    left :300px
+}

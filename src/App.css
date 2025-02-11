@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+  background-color: darkgray;
+}
+.div-1{
+  width: 200px;
+  height: 725px;
+  /* after */
+  /* background-image: url(./project/Signin/images/login.png); */
+}
+.li-1{
+  font-weight:500;
+  font-size: larger;
+  font-family: 'Times New Roman', Times, serif;
+  font-size-adjust: initial;
+  text-align: center;
+  border-radius: 10px;
+text-indent: 10px;
+font-size: larger;
+list-style: none;
+padding: 20px;
+
+}
+.li-1 a{
+  color: #fff;
+  background-color:black ;
+}
+
+.div-1{
+  
+  height: 710px;
+  /* after */
+  position: fixed;
+  
+}
+
+
+
+.text {
+
+  text-align: center;
+  text-transform: uppercase;
+  font-family: verdana;
+  font-size: 1em;
+  font-weight: 700;
+  color: rgba(207, 22, 22, 0.7);
+  text-shadow: 1px 1px 1px #919191,
+      1px 2px 1px #919191,
+      1px 3px 1px #919191,
+      1px 4px 1px #919191,
+      1px 5px 1px #919191,
+      1px 6px 1px #919191,
+      1px 7px 1px #919191,
+      1px 8px 1px #919191,
+      1px 9px 1px #919191,
+      1px 10px 1px #919191,
+  1px 18px 6px rgba(16,16,16,0.4),
+  1px 22px 10px rgba(16,16,16,0.2),
+  1px 25px 35px rgba(16,16,16,0.2),
+  1px 30px 60px rgba(16,16,16,0.4);
+  
+}
+.bs-example{
+  margin: 5px;
+ margin-left: 90%;
+ margin-bottom: 0%;
+}

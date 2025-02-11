@@ -1,0 +1,44 @@
+
+.outerdiv-emp-form{
+    overflow: scroll;
+    position: absolute;
+    left: 205px;
+    height: 81%;
+    top: 110px;
+    width: 80%;
+    color: black;
+    border: 3px solid rgb(5, 0, 0);
+    padding: 10px;
+    border-radius: 5px;
+
+    }
+    .form-label{
+      margin-bottom: 0px;
+      ;
+    }
+    label{
+        font-size: 20px;
+        font-weight: 700;
+    }
+    input{
+        width: 60%;
+        height: 20px;
+        margin: 10px;
+        padding: 6px 12px;
+        border-radius: 5px;
+    }
+    button{
+        padding: 8px 16px !important;
+        background-color: blue;
+        color: #fff;
+        border-radius: 30px;
+        text-align: center;
+
+    }
+    select{
+        width: 62%;
+        height: 35px;
+        margin: 10px;
+        padding: 6px 12px;
+        border-radius: 5px;
+    }
